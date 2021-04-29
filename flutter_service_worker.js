@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f0be0721d6cd7c0ec849426cbcb69be0",
+  "assets/AssetManifest.json": "8c91b93113e4866d62425867e9870f69",
 "assets/assets/dart.png": "d8e0402a16720f0cc7c5be7964875e76",
 "assets/assets/flutter.png": "59be21f1c01993fafae1aaf7cfd9922f",
 "assets/assets/flutter_ph.png": "21c4ae78093f42e3da9ac273fe611931",
@@ -17,6 +17,10 @@ const RESOURCES = {
 "assets/assets/projects/cvsu_portal.png": "064565aa1eca74dbe4af7ac0120c3022",
 "assets/assets/projects/todo_list.png": "344ee8ca296c9217e2a36bab7b3c786d",
 "assets/assets/python.png": "aa12d4ed8c4291f93b76c4a7abf87be7",
+"assets/assets/reginaldo.JPG": "8ce813eb2f4a07d8f312e49d49b8f746",
+"assets/assets/reginaldo.JPG.png": "4b28f61c79a68919f8e6aa37f639db8d",
+"assets/assets/reginaldo.png": "dfb3ae917d8207f3d14435c6a649a228",
+"assets/assets/reginaldo1.png": "1573f5776c4e9fcd1438742bf6f18718",
 "assets/assets/reso_coder.png": "23a3b07e7dd030831fe1cfd87709fc00",
 "assets/assets/udemy.png": "78c8f84ac83bb1e241df2df0de2515f7",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
@@ -29,9 +33,9 @@ const RESOURCES = {
 "favicon.png": "b5f82968338061b7d4ec749a2e27b325",
 "icons/Icon-192.png": "7731d5d1b5fa99cd69920b271c4f5cbb",
 "icons/Icon-512.png": "9927874f8d0adf17e7cb09034f99bea6",
-"index.html": "ea2c574701c65265859c8a89ddbcc683",
-"/": "ea2c574701c65265859c8a89ddbcc683",
-"main.dart.js": "2d12b4aa432b2bb523b5f95a9dbeea1b",
+"index.html": "e4f6bf5c638cab7f827c357bf28c60b2",
+"/": "e4f6bf5c638cab7f827c357bf28c60b2",
+"main.dart.js": "26d8ba4da2695afbc132d1e5aa4115eb",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
