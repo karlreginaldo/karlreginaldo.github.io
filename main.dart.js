@@ -55887,7 +55887,7 @@ return T.DZ(q,q,C.bc,!0,q,new Q.et(q,H.b([new Q.et(r.c,q,B.d7(p,r.d,s))],t.B2),q
 gih:function(a){return this.f}}
 Y.nc.prototype={
 F:function(a,b){var s=null,r=T.aA(s,10,s),q=T.aA(s,15,s),p=$.agx(),o=H.af(p).j("ak<1,e5*>")
-return T.bn(H.b([new N.bQ("Education",24,C.S,s,s),r,new N.bQ("These are the schools I went to before. I just want to add these in my portfolio",16,C.aF,C.p,s),q,T.bn(P.at(new H.ak(p,new Y.PB(),o),!0,o.j("aM.E")),C.n,C.r,C.m)],t.t),C.cD,C.r,C.m)}}
+return T.bn(H.b([new N.bQ("Education",24,C.S,s,s),r,new N.bQ("These are the schools I went before. I just want to add these in my portfolio",16,C.aF,C.p,s),q,T.bn(P.at(new H.ak(p,new Y.PB(),o),!0,o.j("aM.E")),C.n,C.r,C.m)],t.t),C.cD,C.r,C.m)}}
 Y.PB.prototype={
 $1:function(a){var s=null,r=t.t
 return M.aL(s,M.aL(s,T.cu(H.b([T.cj(T.bn(H.b([new N.bQ(a.a,16,s,C.p,s),new N.bQ(a.b,16,C.S,s,s),new N.bQ(a.d,14,C.aF,C.p,s)],r),C.cD,C.r,C.m),1),new N.bQ(a.c,12,P.b0(C.N.aJ(127.5),255,255,255),C.p,s)],r),C.lR,C.a9,C.m),s,s,s,s,new V.aj(0,24,0,24),s,s),s,s,s,s,s,s,s)},
