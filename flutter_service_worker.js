@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8c91b93113e4866d62425867e9870f69",
+  "assets/AssetManifest.json": "3e6eb60a92e6c8cc1deedbdf492880f1",
 "assets/assets/dart.png": "d8e0402a16720f0cc7c5be7964875e76",
 "assets/assets/flutter.png": "59be21f1c01993fafae1aaf7cfd9922f",
 "assets/assets/flutter_ph.png": "21c4ae78093f42e3da9ac273fe611931",
@@ -15,6 +15,7 @@ const RESOURCES = {
 "assets/assets/projects/bmi_mockup.png": "13fb8cd045854754f8576eafdb4f0539",
 "assets/assets/projects/curious_digit.png": "08e9c4daea1183cb92f78a21860b91e0",
 "assets/assets/projects/cvsu_portal.png": "064565aa1eca74dbe4af7ac0120c3022",
+"assets/assets/projects/quick_look.gif": "a4b2936530dfb22fd037b332ee8251ff",
 "assets/assets/projects/todo_list.png": "344ee8ca296c9217e2a36bab7b3c786d",
 "assets/assets/python.png": "aa12d4ed8c4291f93b76c4a7abf87be7",
 "assets/assets/reginaldo.JPG": "8ce813eb2f4a07d8f312e49d49b8f746",
@@ -33,10 +34,11 @@ const RESOURCES = {
 "favicon.png": "b5f82968338061b7d4ec749a2e27b325",
 "icons/Icon-192.png": "7731d5d1b5fa99cd69920b271c4f5cbb",
 "icons/Icon-512.png": "9927874f8d0adf17e7cb09034f99bea6",
-"index.html": "4a508db788debbddf3fe3d2d2ba60057",
-"/": "4a508db788debbddf3fe3d2d2ba60057",
-"main.dart.js": "45fea84715c61f167df8aef15722233a",
+"index.html": "a1c353bd291bbb5c40fd92c35f7691f8",
+"/": "a1c353bd291bbb5c40fd92c35f7691f8",
+"main.dart.js": "bb8e5c8bfd7e02173cd687e96af3cdec",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
+"README.md": "05298682677ae10195c32a07a192e177",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
 
